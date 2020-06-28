@@ -2,7 +2,7 @@
 title: uses
 template: page
 ---
-![]()
+![](/images/12.jpg)
 
 uses
 
