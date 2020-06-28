@@ -1,24 +1,43 @@
 ---
-title: The function of design is letting design function
-subtitle: 'A interesting tale about function of design '
-date: '2020-06-15'
-thumb_image: images/4.jpg
-image: images/4.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+title: Что же такое StackBit и почему с ним так удобно?
+subtitle: Здесь я расскажу о прекрасном инструменте для создания сайтов - StackBit
+date: 2020-06-27T21:00:00.000Z
+thumb_image: /images/fig.jpg
+image: /images/fig0.jpg
+excerpt: "С помощью StackBit моя мечта стала реальностью - я создала свой сайт,
+  который теперь могу наполнить интересными статьями и постами! "
 template: post
 ---
+Во время прохождения занятий мне повезло познакомиться со **Stackbit** – отличным конструктором сайтов, который предлагает множество инструментов и шаблонов на выбор для создания статических сайтов. Очень благодарна нашему учителю Avi Rynkov за детальное прохождение с нами каждого этапа и прекрасные обьяснения, именно он открыл для нас StackBit и широкие возможности этой платформы.
 
-# This is the post I want to sharew with you...
+## С первого взгляда...
 
-Hello, my dear friends. Let's speak about website building.
+При входе на этот чудесный сайт с первого взгляда я увидела надпись The best way to JAMStack. Это означает, что это очень модная платформа для веб-архитектуры, которая основывается на трех компонентах, которые необходимы для создания статического сайта – Java Script (для придания интерактивности нашему сайту), API (источник информации, используемый сайтом) и Markup (генератор кода шаблона сайта, который позволяет создать html-разметку страниц).
+
+![Главная страница сайта stackbit.com](/images/fig1.jpg "Главная страница сайта stackbit.com")
+
+## Темы, которые радуют глаз!
+
+После входа на рабочую панель (dashboard) Stackbit мне без всякого труда удалось создать сайт, используя один из существующих шаблонов (тем). Следует отметить, что все представленные там шаблоны имеют очень яркий и современный дизайн, удобную для посетителя сайта структуру и все необходимые блоки как для размещения статей, так и для создания персонального блога.
+
+![выбор темы сайта на StackBit](/images/fig2.jpg "Так выглядит выбор темы сайта на StackBit ")
+
+## И кого же выбрать...?
+
+После того, как мы определились с темами, мы перешли на страницу, где можем выбрать доменное имя и генератор html для наших статических сайтов. Кстати, имена, которые предлагает Stackbit по умолчанию, тоже ничего и порой бывают даже очень смешные :) При выборе генератора html нам предоставляется несколько на выбор, но мы на занятиях выбирали Gatsby, который был там по умолчанию. Этот сервис необходим для создания множества html-файлов из наших материалов в виде Markdown-кода, и теперь они становятся готовыми для публикации в интернете и чтобы браузер их понимал.
+
+![Выбор генератора html на StackBit](/images/fig3.jpg "Как я определялась с генератором html на StackBit")
+
+## Хочу наполнять сайт и ...знаю где!
+
+Дальше следует выбрать, какую систему управления контентом (CMS) мы хотим использовать. На занятиях мы научились использовать такие системы, как Sanity.io и Netlify CMS. Еще мы смотрели систему управления Git, которая позволяет редактировать контент, хранящийся в репозиториях Git Hub.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.
 
-Aenean sed adipiscing diam donec. Id donec ultrices tincidunt arcu non sodales. Orci ac auctor augue mauris augue neque gravida in. Mattis enim ut tellus elementum sagittis vitae et leo duis. Tortor pretium viverra suspendisse potenti nullam. Malesuada proin libero nunc consequat. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est velit. Mauris vitae ultricies leo integer malesuada nunc. Eget magna fermentum iaculis eu. Molestie at elementum eu facilisis. Dui faucibus in ornare quam viverra orci sagittis. Aliquam ultrices sagittis orci a scelerisque purus semper eget.
+![Выбор системы упраления контентом на StackBit](/images/fig4.jpg "Разнообразие выбора системы управления контента (CMS) на StackBit")
 
-Tellus mauris a diam maecenas sed enim. Enim facilisis gravida neque convallis a cras. Sollicitudin nibh sit amet commodo nulla facilisi. Ultrices mi tempus imperdiet nulla malesuada pellentesque. Semper viverra nam libero justo laoreet sit. Vestibulum sed arcu non odio euismod lacinia at quis risus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Aliquam sem et tortor consequat id porta nibh venenatis cras. Et leo duis ut diam quam nulla porttitor massa id. Sagittis vitae et leo duis ut diam quam. Vitae aliquet nec ullamcorper sit amet. Egestas egestas fringilla phasellus faucibus. Elit pellentesque habitant morbi tristique senectus et netus et. Sagittis purus sit amet volutpat consequat mauris nunc. Commodo odio aenean sed adipiscing. Aliquet eget sit amet tellus cras adipiscing. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Justo eget magna fermentum iaculis eu non.
+Мне нравится работать со Stackbit, так как все созданные нами проекты (сайты) мы могу просмотреть в списке на рабочей панели. Именно с этой панели мы можем управлять ими, заходить в них, редактировать через вход в систему управления контентом.
 
-Mi quis hendrerit dolor magna. Vel facilisis volutpat est velit egestas dui id ornare arcu. Sed sed risus pretium quam vulputate. Quam viverra orci sagittis eu volutpat odio facilisis mauris. Enim eu turpis egestas pretium. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Turpis egestas pretium aenean pharetra magna ac. Enim diam vulputate ut pharetra sit amet aliquam id. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Amet nulla facilisi morbi tempus. Aliquet bibendum enim facilisis gravida neque convallis. Nulla pharetra diam sit amet. Vitae nunc sed velit dignissim sodales ut.
+Также здорово то, что работа Stackbit интегрирована с сервисами GitHub и netlify, что позволяет управлять данными сайта, синхронизировать, оперативно обновлять их, клонировать в дальнейшем через Git для просмотра и редактирования кода в Visual Studio, обновлять данные сайта и делать кучу других необходимых для правильной работы сайта вещей.
+
+Сайты, созданные с помощью Stackbit – имеют хорошие показатели безопасности, отличную производительность (кстати, которая зависит еще и от размеров изображений на сайте). Но главное то, что они объединяют опыт огромного количества программистов и тонны кода, с помощью которых мы можем сделать наш сайт еще круче. Просматривая и изучая этот код через Visual Studio,мы сможем улучшить свои знания и увидеть много нового, с чем еще предстоит разобраться.
