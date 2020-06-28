@@ -1,7 +1,7 @@
 ---
 title: The function of design is letting design function
 subtitle: 'A interesting tale about function of design '
-date: '2018-01-15'
+date: '2020-06-15'
 thumb_image: images/4.jpg
 image: images/4.jpg
 excerpt: >-
@@ -9,6 +9,11 @@ excerpt: >-
   incididunt ut labore et dolore magna aliqua.
 template: post
 ---
+
+# This is the post I want to sharew with you...
+
+Hello, my dear friends. Let's speak about website building.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.
 
