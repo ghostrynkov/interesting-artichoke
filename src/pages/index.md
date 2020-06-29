@@ -117,13 +117,13 @@ sections:
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
           non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - type: section_posts
-    title: Latest from the Blog
+    title: Новинки Блога
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: Все, о чем мы хотим Вам рассказать.
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
+      - label: Читать Блог
         url: blog/index.html
         type: button
 template: advanced
