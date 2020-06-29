@@ -1,6 +1,7 @@
 ---
 title: My favorite program🤣
-subtitle: Угадай...
+subtitle: ""
+excerpt: Угадай...
 date: 2020-06-29T04:00:00.000Z
 thumb_image: /images/photo-1502951682449-e5b93545d46e.jpg
 image: ""
