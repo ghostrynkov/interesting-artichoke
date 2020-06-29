@@ -108,8 +108,13 @@ sections:
         avatar: images/deegan_wallace.jpg
         content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-      - author: Tanya M
-        content: soon
+      - author: Таня Молочная
+        content: Хочу вырозить огромную благодарность нашему инструктору Ави Рынкову за
+          его терпения и искренее желание помочь! Возможность подтянуть косяки
+          вне класса и всегда получать ответ на свой вопрос. Это сыграла большую
+          роль в успехе всех нас. Желаю всем такого тонкого и умного
+          преподавателя! 
+        avatar: /images/49167317228_83a727638f_q.jpg
   - type: section_posts
     title: Latest from the Blog
     section_id: latest-posts
