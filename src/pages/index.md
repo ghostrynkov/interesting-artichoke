@@ -56,17 +56,27 @@ sections:
             label: На официальный сайт
             url: https://www.netlify.com/
       - title: GitHub
-        content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: GitHub — сервис онлайн-хостинга репозиториев, обладающий широким
+          набором функций и возможностью управления исходным кодом — всё, что
+          поддерживает Git и даже больше. Обычно он используется вместе с Git и
+          даёт возможность сохранять код онлайн, взаимодействовать с другими
+          разработчиками, записывать изменения в файлах сайта, выполненные в
+          синхронизированных CMS.
         image: /images/github.jpg
+        actions:
+          - type: link
+            new_window: false
+            url: https://github.com/
+            label: На официальный сайт
       - title: Visual Studio Code
         content: Visual Studio Code — это редактор исходного кода как в режиме mark-up,
           так и в режиме mark-down. Он поддерживает подсветку синтаксиса, запуск
           кода, деплой, Git, связь с СMS и другие возможности. Также есть
           удобная функция Terminal
           [](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%B2%D0%B5%D1%82%D0%BA%D0%B0_%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D0%B0
-          "Подсветка синтаксиса")наподобие командной строки.
+          "Подсветка синтаксиса")наподобие командной
+          строки.  [](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8
+          "Интерфейс командной строки")
         image: /images/vis.jpg
         actions:
           - type: link
@@ -123,6 +133,10 @@ sections:
           Планирую развивать свои знания и навыки в этом направлении. Большое
           спасибо преподавателю за новые знания, детальные объяснения, терпение
           и внимательность.
+      - author: Aubrey Hoover
+        avatar: images/aubrey_hoover.jpg
+        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
+          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - type: section_posts
     title: Новинки Блога
     section_id: latest-posts
