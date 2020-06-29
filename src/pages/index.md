@@ -58,15 +58,16 @@ sections:
           non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - title: Stackbit
         image: /images/screen-shot-2020-06-29-at-11.22.44.png
-        content: >-
-          Stackbit - это JAMStack конструктор сайтов. Это конструктор сайтов для
+        content: Stackbit - это JAMStack конструктор сайтов. Это конструктор сайтов для
           разработчиков где можно буквально в несколько кликов  сгенерировать
           себе статический сайт и подключить к нему headless CMS, например
           Sanity. В stackbit можно использовать готовые шаблоны, а также
-          загрузить в него свой кастомный шаблон. 
-
-
-          [На официальный сайт](https://www.stackbit.com/)
+          загрузить в него свой кастомный шаблон.
+        actions:
+          - type: link
+            new_window: true
+            label: На официальный сайт
+            url: https://www.stackbit.com/
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
