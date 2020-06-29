@@ -61,8 +61,18 @@ sections:
           dui sollicitudin.
         image: /images/github.jpg
       - title: Visual Studio Code
-        content: ""
-        image: /images/webp.net-resizeimage-2-.jpg
+        content: Visual Studio Code — это редактор исходного кода как в режиме mark-up,
+          так и в режиме mark-down. Он поддерживает подсветку синтаксиса, запуск
+          кода, деплой, Git, связь с СMS и другие возможности. Также есть
+          удобная функция Terminal
+          [](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%B2%D0%B5%D1%82%D0%BA%D0%B0_%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D0%B0
+          "Подсветка синтаксиса")наподобие командной строки.
+        image: /images/vis.jpg
+        actions:
+          - type: link
+            new_window: true
+            label: На официальный сайт
+            url: https://code.visualstudio.com/
       - title: Stackbit
         image: /images/screen-shot-2020-06-29-at-11.22.44.png
         content: Stackbit - это JAMStack конструктор сайтов. Это конструктор сайтов для
