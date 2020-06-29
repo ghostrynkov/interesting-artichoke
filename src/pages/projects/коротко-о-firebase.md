@@ -4,8 +4,8 @@ subtitle: Платформа для успеха
 excerpt: Я только хочу попробовать, я не хочу сразу за это платить. Мне нужен
   хостинг только на пару дней.
 date: 2020-06-29T05:51:12.621Z
-thumb_image: /images/firebase_im.jpg
-image: /images/firebase_im.jpg
+thumb_image: /images/ff_min.jpg
+image: /images/ff_min.jpg
 template: project
 ---
 Когда мы начали обучаться созданию сайтов, то одной из темой было работа с хостингом. А где же нам взять хостинг, который был бы бесплатен для учебного процесса?
