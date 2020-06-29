@@ -123,10 +123,6 @@ sections:
           Планирую развивать свои знания и навыки в этом направлении. Большое
           спасибо преподавателю за новые знания, детальные объяснения, терпение
           и внимательность.
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - type: section_posts
     title: Новинки Блога
     section_id: latest-posts
