@@ -90,11 +90,18 @@ sections:
 
           А также Unsplash - [https://unsplash.com](https://unsplash.com/), Royalty Free изображения.
   - type: section_testimonials
-    title: Testimonials
+    title: Отзывы о курсе
     section_id: testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: Наши впечатления и мысли
     col_number: three
     testimonials:
+      - author: Таня Молочная
+        content: Хочу вырозить огромную благодарность нашему инструктору Ави Рынкову за
+          его терпения и искренее желание помочь! Возможность подтянуть косяки
+          вне класса и всегда получать ответ на свой вопрос. Это сыграла большую
+          роль в успехе всех нас. Желаю всем такого тонкого и умного
+          преподавателя! 
+        avatar: /images/49167317228_83a727638f_q.jpg
       - author: Люба Сорокина
         avatar: /images/1-1316.jpg
         content: За эти 6 насыщенных дней лагеря благодаря Avi Rynkov я впервые открыла
@@ -109,17 +116,6 @@ sections:
         avatar: images/aubrey_hoover.jpg
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
           non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
-      - author: Таня Молочная
-        content: Хочу вырозить огромную благодарность нашему инструктору Ави Рынкову за
-          его терпения и искренее желание помочь! Возможность подтянуть косяки
-          вне класса и всегда получать ответ на свой вопрос. Это сыграла большую
-          роль в успехе всех нас. Желаю всем такого тонкого и умного
-          преподавателя! 
-        avatar: /images/49167317228_83a727638f_q.jpg
   - type: section_posts
     title: Latest from the Blog
     section_id: latest-posts
