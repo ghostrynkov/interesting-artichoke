@@ -4,17 +4,15 @@ hide_title: false
 sections:
   - type: section_form
     section_id: contact-form
-    content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+    content: Мы с удовольствием рассмотрим варианты сотрудничества, потому что мы
+      теперь умеем создавать сайты! Так что обращайтесь :)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - type: text
-        name: name
-        label: Name
-        default_value: Your name
+        name: Имя
+        label: Имя
+        default_value: Ваше имя
         is_required: true
       - type: email
         name: email
@@ -22,22 +20,20 @@ sections:
         default_value: Your email address
         is_required: true
       - type: select
-        name: subject
-        label: Subject
-        default_value: Please select
+        name: Тема
+        label: Тема
+        default_value: Выбрать
         options:
           - Error on the site
           - Sponsorship
           - Other
       - type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Текст сообщения
+        default_value: Ваше сообщение
       - type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+        label: Я понимаю, что со мной могут связаться
+    submit_label: Отправить сообщение
 template: advanced
 ---
