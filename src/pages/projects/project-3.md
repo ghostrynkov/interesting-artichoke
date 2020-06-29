@@ -1,16 +1,55 @@
 ---
 title: Project Title 3
-subtitle: Optional Project Subtitle
-date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
-image: images/3.jpg
+subtitle: Мой первый сайт
+date: 2020-06-28T21:00:00.000Z
+thumb_image: /images/course-intro_1.jpg
+image: /images/shutterstock_109352174.jpg
 template: project
 ---
+В этой статье я хотела бы рассказать о сайтах, которые мне удалось создать с помощью сервиса StackBit благодаря прекрасным объяснениям и неоценимой помощи нашего преподавателя Avi Rynkov. Нет, скорее даже не о сайтах, а об одном, самом запоминающемся, самом первом в моей жизни. Сайте, после появления которого на странице браузера впервые, запела душа…
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo. In vitae turpis massa sed. Mauris nunc congue nisi vitae suscipit tellus mauris a. Phasellus egestas tellus rutrum tellus pellentesque. Nulla facilisi morbi tempus iaculis urna id volutpat. Ac tortor vitae purus faucibus ornare suspendisse sed. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Suspendisse interdum consectetur libero id. Quisque egestas diam in arcu. Eget gravida cum sociis natoque penatibus et. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Etiam dignissim diam quis enim. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim tortor. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Nulla malesuada pellentesque elit eget gravida cum sociis natoque. Ut venenatis tellus in metus vulputate eu scelerisque felis. Porttitor eget dolor morbi non arcu risus quis varius quam. Volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa.
+![Создание сайта в StackBit](/images/12.jpg "Создание оболочки сайта за 60 секунд в системе StackBit")
 
->"Design adds value faster than it adds costs." - Joel Spolsky
+В посте блога я уже рассказала о том, каким удобным и дружественным в своем интерфейсе оказался сервис StackBit. И именно там, еще на третьем занятии курса с помощью html-генератора Gatsby и с CMS системой Sanity.io на бесплатном хостинге впервые зародился мой первый скромный веб-проект.
 
-Amet risus nullam eget felis eget. Quisque egestas diam in arcu cursus euismod quis. Nibh nisl condimentum id venenatis a condimentum. Condimentum vitae sapien pellentesque habitant morbi. Adipiscing bibendum est ultricies integer quis auctor elit. Velit laoreet id donec ultrices. Neque egestas congue quisque egestas diam. Euismod quis viverra nibh cras pulvinar mattis. Lobortis scelerisque fermentum dui faucibus. Arcu felis bibendum ut tristique. Metus vulputate eu scelerisque felis imperdiet proin fermentum. Enim nunc faucibus a pellentesque sit amet porttitor. Nec nam aliquam sem et tortor consequat. Ullamcorper a lacus vestibulum sed arcu non. Semper quis lectus nulla at volutpat. Lectus magna fringilla urna porttitor rhoncus dolor purus non. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Ut pharetra sit amet aliquam id diam maecenas ultricies. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Morbi tincidunt ornare massa eget.
+Следует отметить, что этому предшествовало также выполнение ряда определенных команд в блоке Terminal приложения Visual Studio.
 
-Netus et malesuada fames ac turpis. Morbi tristique senectus et netus. Tempor commodo ullamcorper a lacus vestibulum sed. Id eu nisl nunc mi ipsum. Sed ullamcorper morbi tincidunt ornare. Tellus in metus vulputate eu scelerisque felis. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Neque volutpat ac tincidunt vitae. Enim diam vulputate ut pharetra sit amet aliquam. In eu mi bibendum neque egestas congue quisque egestas. At imperdiet dui accumsan sit. Diam sit amet nisl suscipit. Tellus in metus vulputate eu. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Fusce ut placerat orci nulla pellentesque dignissim. Neque egestas congue quisque egestas diam in arcu.
+```
+// Install our command line tools
+ npm install @sanity/cli -g
+ 
+// Create your Sanity project root directory
+ mkdir projects && cd projects
+ 
+// Create a new Sanity project
+ sanity init
+ 
+```
+
+StackBit дал ему интересное доменное имя по умолчанию fresh-water-3940b.netlify.app. C этого момента я поняла, что хочу посвятить этот первый сайт самой простой и в то же время самой загадочной молекуле – воде и ее уникальным свойствам. Ведь именно вода – это то, что было создано Вс-вышним прежде всего, как основа всей жизни. В связи с тем, что тема сайта по умолчанию была англоязычной, я решила заполнять его контентом на английском. 
+
+![Страница моего проекта на платформе netlify](/images/13.jpg "Страница моего проекта на платформе netlify")
+
+Сразу же после создания сайта я увидела, как данные моего сайта появились на рабочей панели сервиса netlify и создалась соответствующая репозитория для папок и файлов сайта на сервисе Git Hub.
+
+![Репозитория моего сайта на GitHub](/images/14.jpg "Репозитория моего сайта на GitHub")
+
+Самым первым желанием при создании сайта было где-то что-то изменить и полюбоваться этим прямо на своем сайте. И благодаря нашему преподавателю Avi Rynkov этот чудесный инструмент для внесения правок на сайт Sanity Studio был укрощен. Он оказался очень удобным и логичным в использовании. 
+
+Avi Rynkov научил нас добавлять на сайт изображения (правильного размера!), видео и дал необходимую основу разметки Markdown. Так как все странички, касающиеся контента, система запоминает именно с расширением .md. Такая разметка очень удобна для использования контент-менеджерами, она позволяет добиться некоторых сss-эффектов без написания сложных нагромождений кода, без проблем вставить ссылку, изображение, видео и довольно проста в использовании.
+
+![Основное меню в CMS Sanity Studio](/images/14а.jpg "Основное меню и страница управления конфигурацией сайта в CMS Sanity Studio")
+
+Меню в CMS Sanity Studio с левой стороны страницы было разделено на блоки, в которые очень легко заходить и находить нужное место на сайте, куда необходимо внести изменения. Первый пункт меню Site Configuration позволяет вписать название сайта, выбрать базовые элементы дизайна сайта (в том числе header и footer), выставить логотип сайта, определиться с навигационными ссылками, фактически пунктами главного меню сайта, которые отображаются в header. Там же можно сделать кнопочки, которые переводят на страницы социальных сетей.
+
+![Редактирование поста в CMS Sanity Studio](/images/15.jpg "Редактирование поста в CMS Sanity Studio c элементами разметки Markdown")
+
+Было очень приятно создавать свои первые блоги на этом сайте, добавлять в них ссылки, картинки, видеоролики. И после нажатия кнопки Publish c нетерпением ждать, когда сервис netlify заново перестроит сайт с учетом нового контента и заветные материалы появятся на сайте. Также новым и полезным навыком для меня было создание активной кнопки для перехода по ссылке и перелинковки (связи между отдельными страницами).
+
+С помощью GitHub удалось клонировать сайт в папку компьютера и работать с его файлами уже непосредственно в Visual Studio, что-то менять, и с помощью предустановленного приложения Git коммитить и делать push этим изменениям. И в результате получать волшебство – внесенные мною в Visual Studio изменения появлялись уже на сайте.
+
+![Папка клонированного сайта, открытая в приложении Visual Studio](/images/16.jpg "Папка клонированного сайта, открытая в приложении Visual Studio")
+
+В моих перспективах более детально исследовать код своего сайта, хорошо изучить, какие стили css применяются к каждому его элементу, пробовать и искать, что можно изменить и улучшить. Также развивать контент, писать больше о воде и обо всем, что с ней связано. C помощью StackBit планирую создать еще несколько проектов, уже русскоязычных – для популяризации науки и о еврейской истории своего города.
+
+А сейчас приглашаю на свой пока еще маленький первый сайт по ссылке: <https://fresh-water-3940b.netlify.app/>
