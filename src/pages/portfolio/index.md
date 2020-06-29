@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+title: Темы и проекты
+subtitle: Темы, которые проходили + проекты, которые делали
 layout_style: mosaic
 template: portfolio
 ---
