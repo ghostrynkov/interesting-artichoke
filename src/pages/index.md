@@ -12,53 +12,50 @@ sections:
         url: /contact
         type: button
   - type: section_portfolio
-    title: Темы и проекты на курсе
+    title: Recent Work
     section_id: latest-projects
-    subtitle: Что мы делали и как?
+    subtitle: An optional subtitle of the section
     layout_style: mosaic
-    projects_number: 4
+    projects_number: 6
     view_all_label: View All
     view_all_url: portfolio/index.html
   - type: section_grid
-    title: Какими сервисами мы пользовались?
+    title: What We Do
     section_id: services
-    subtitle: Платформы и другие инструменты для разработчиков
+    subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Visual Studio Code
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla .
       - title: Sanity.io
-        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
-          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: Sanity.io - это хост-сервер в комплексе с очень быстрой системой
+          управления контентом (СMS) с API-интерфейсом в реальном времени, с
+          возможностью интеграции в работе с Git и Netlify, а также удобным
+          встроенным редактором контента Studio.
+        image: /images/sanity.jpg
+        actions:
+          - type: link
+            new_window: true
+            label: На официальный сайт
+            url: https://www.sanity.io/
       - title: Netlify
+        content: Netlify - это мультифункциональный сервис, который предоставляет
+          хостинг и бэк-энд без сервера для статических сайтов, интегрирован с
+          Git, позволяет провести быстрый деплоймент и перестроить сайт с
+          внесенными в CMS изменениями в считанные секунды и много-много
+          другого.
+        image: /images/fbvp_udf.jpg
+        actions:
+          - type: link
+            new_window: true
+            label: На официальный сайт
+            url: https://www.netlify.com/
+      - title: Service Title
         content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-      - title: GitHub
+      - title: Service title
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
           non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - title: Stackbit
-        content: stakbit content
-      - title: Image Processing
-        content: >-
-          Для хорошего сайта нужны хорошие и оптимизированные картинки. Набор
-          настольных инструментов если под рукой нет photoshop (или подобное)
-
-
-          [resizeimage.net](https://resizeimage.net)
-
-
-          [compresspng.com](https://compresspng.com)
-
-
-          [compressjpeg.com](https://compressjpeg.com)
-
-
-          А также где брать картинки? Вот здесь - [Unsplash](https://unsplash.com). Сервис royalty free фотографий на любой вкус
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
@@ -79,7 +76,7 @@ sections:
         content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
   - type: section_posts
-    title: Последнее из блога
+    title: Latest from the Blog
     section_id: latest-posts
     subtitle: An optional subtitle of the section
     posts_number: 3
