@@ -1,10 +1,10 @@
 {
-  "title": "Stackbit Exto Theme",
-  "description": "A portfolio theme with a blog",
+  "title": "HOME.LAND. Мидраша Ционит",
+  "description": "Курс создания сайтов",
   "color_scheme": "light",
-  "accent_color": "pink",
+  "accent_color": "blue",
   "header": {
-    "title": "Exto",
+    "title": "Создание Сайтов в Home.Land",
     "has_nav": true,
     "nav_links": [
       {
@@ -13,28 +13,18 @@
         "type": "link"
       },
       {
-        "label": "Portfolio",
+        "label": "Темы и Проекты",
         "url": "/portfolio/",
         "type": "link"
       },
       {
-        "label": "Blog",
+        "label": "Блог",
         "url": "/blog/",
         "type": "link"
       },
       {
-        "label": "Style Guide",
-        "url": "/style-guide/",
-        "type": "link"
-      },
-      {
-        "label": "About",
+        "label": "О Курсе",
         "url": "/about/",
-        "type": "link"
-      },
-      {
-        "label": "Contact",
-        "url": "/contact/",
         "type": "link"
       },
       {
@@ -42,11 +32,17 @@
         "new_window": false,
         "label": "Uses",
         "url": "/uses"
+      },
+      {
+        "type": "button",
+        "new_window": true,
+        "label": "HOMELAND",
+        "url": "https://homelandfest.info/"
       }
     ]
   },
   "footer": {
-    "content": "&copy; Stackbit-Exto. All rights reserved.",
+    "content": "&copy; Курс создания сайтов в Home.Land",
     "links": [
       {
         "label": "Made with Stackbit.",
@@ -55,7 +51,7 @@
         "new_window": true
       }
     ],
-    "has_social": true,
+    "has_social": false,
     "social_links": [
       {
         "label": "Twitter",
