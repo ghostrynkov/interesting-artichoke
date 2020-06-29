@@ -49,11 +49,11 @@ sections:
             new_window: true
             label: На официальный сайт
             url: https://www.netlify.com/
-      - title: Service Title
+      - title: Github
         content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-      - title: Service title
+      - title: Visual Studio Code
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
           non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - type: section_testimonials
