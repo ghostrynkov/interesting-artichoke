@@ -12,17 +12,17 @@ sections:
         url: /contact
         type: button
   - type: section_portfolio
-    title: Recent Work
+    title: Что мы делали и как?
     section_id: latest-projects
-    subtitle: An optional subtitle of the section
+    subtitle: Проекты и сервисы
     layout_style: mosaic
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio/index.html
   - type: section_grid
-    title: What We Do
+    title: Сервисы и инструменты разработчика
     section_id: services
-    subtitle: An optional subtitle of the section
+    subtitle: Чем мы пользовались на пути к созданию сайта
     col_number: two
     is_numbered: true
     grid_items:
@@ -49,7 +49,7 @@ sections:
             new_window: true
             label: На официальный сайт
             url: https://www.netlify.com/
-      - title: Github
+      - title: GitHub
         content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
