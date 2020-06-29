@@ -84,16 +84,22 @@ sections:
 
           А также Unsplash - [https://unsplash.com](https://unsplash.com/), Royalty Free изображения.
   - type: section_testimonials
-    title: Testimonials
+    title: Отзывы о курсе
     section_id: testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: Участники лагеря о занятиях
     col_number: three
     testimonials:
-      - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+      - author: Люба Сорокина
+        avatar: /images/1-1316.jpg
+        content: За эти 6 насыщенных дней лагеря благодаря Avi Rynkov я впервые открыла
+          для себя совершенно новый мир – тот, который стоит за кулисами сайтов,
+          тот, из которого соткан интернет. Мы выучили и сделали очень много,
+          это был совершенно новый для меня опыт. Впервые в жизни мне удалось
+          окунуться в волшебство творения сайтов и сделать свой первый небольшой
+          сайт. Самой интересной для меня оказалась тема html и сss, я считаю,
+          что Avi Rynkov дал ученикам хороший старт. Планирую развивать свои
+          знания и навыки в этом направлении. Большое спасибо преподавателю за
+          новые знания, детальные объяснения, терпение и внимательность.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
