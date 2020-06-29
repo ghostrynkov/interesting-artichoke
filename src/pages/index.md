@@ -61,10 +61,7 @@ sections:
           dui sollicitudin.
         image: /images/github.jpg
       - title: Visual Studio Code
-        content: <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/MlIzFUI1QGA" frameborder="0"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope;
-          picture-in-picture" allowfullscreen></iframe>
+        content: ""
         image: /images/webp.net-resizeimage-2-.jpg
       - title: Stackbit
         image: /images/screen-shot-2020-06-29-at-11.22.44.png
