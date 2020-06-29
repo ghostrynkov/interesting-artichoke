@@ -28,12 +28,6 @@
         "type": "link"
       },
       {
-        "type": "link",
-        "new_window": false,
-        "label": "Uses",
-        "url": "/uses"
-      },
-      {
         "type": "button",
         "new_window": true,
         "label": "HOMELAND",
