@@ -1,8 +1,8 @@
 ---
-title: Project Title 1
+title: My favorite program🤣
 subtitle: Optional Project Subtitle
-date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+date: 2019-05-10
+thumb_image: ""
 image: images/1.jpg
 template: project
 ---
