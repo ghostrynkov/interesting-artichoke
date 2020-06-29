@@ -1,7 +1,7 @@
 ---
 title: Что же такое StackBit и почему с ним так удобно?
 subtitle: Здесь я расскажу о прекрасном инструменте для создания сайтов - StackBit
-date: 2020-06-27T21:00:00.000Z
+date: 2020-06-28T21:00:00.000Z
 thumb_image: /images/fig.jpg
 image: /images/fig0.jpg
 excerpt: "С помощью StackBit наша мечта стала реальностью - мы создали свои
