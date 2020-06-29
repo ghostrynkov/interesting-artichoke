@@ -68,6 +68,21 @@ sections:
             new_window: true
             label: На официальный сайт
             url: https://www.stackbit.com/
+      - title: Image Processing
+        image: /images/resize_s.jpg
+        content: >
+          Набор подручных инструментов для работы с изображениями если под рукой
+          нет photoshop
+
+
+          [resizeimage](https://resizeimage.net/)
+
+          [compresspng](https://compresspng.com/)
+
+          [compressjpeg](https://compressjpeg.com/)
+
+
+          А также Unsplash - [https://unsplash.com](https://unsplash.com/), Royalty Free изображения.
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
