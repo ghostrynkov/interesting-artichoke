@@ -1,8 +1,8 @@
 ---
-title: uses
+title: Полезные сервисы
 template: page
 ---
-![](/images/12.jpg)
+![](/images/services.jpg)
 
 uses
 
