@@ -14,7 +14,7 @@ sections:
   - type: section_portfolio
     title: Темы и проекты на курсе
     section_id: latest-projects
-    subtitle: An optional subtitle of the section
+    subtitle: Что мы делали и как?
     layout_style: mosaic
     projects_number: 4
     view_all_label: View All
@@ -46,7 +46,7 @@ sections:
       - title: Image Processing
         content: >-
           Для хорошего сайта нужны хорошие и оптимизированные картинки. Набор
-          настольных инструментов, если под рукой нет photoshop (или подобное)
+          настольных инструментов если под рукой нет photoshop (или подобное)
 
 
           [resizeimage.net](https://resizeimage.net)
