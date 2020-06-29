@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: Hi, I'm Stackbit Exto Portfolio Theme.
+    title: Шалом всем!
     section_id: hero
     content: >-
       <!--StartFragment-->
