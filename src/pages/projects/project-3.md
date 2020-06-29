@@ -1,6 +1,6 @@
 ---
-title: Project Title 3
-subtitle: Мой первый сайт
+title: Мой первый сайт
+subtitle: Создание веб-сайта с нуля с помощью технологии JAMStack.
 date: 2020-06-28T21:00:00.000Z
 thumb_image: /images/course-intro_1.jpg
 image: /images/shutterstock_109352174.jpg
