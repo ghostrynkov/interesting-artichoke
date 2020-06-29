@@ -5,8 +5,14 @@ sections:
   - type: section_hero
     title: Hi, I'm Stackbit Exto Portfolio Theme.
     section_id: hero
-    content: This section can contain a subtitle or tagline. The recommended length
-      is one to three sentences, but can be changed as you prefer.
+    content: >-
+      <!--StartFragment-->
+
+
+      Добро пожаловать на наш сайт! Вы сможете узнать какими полезными программами мы научились пользоваться при создании сайта и больше. Рекомендуем читать все! Плохие отзывы оставьте при себе. Если по дело то пишите в slake.
+
+
+      <!--EndFragment-->
     actions:
       - label: Let's talk
         url: /contact
@@ -84,22 +90,16 @@ sections:
 
           А также Unsplash - [https://unsplash.com](https://unsplash.com/), Royalty Free изображения.
   - type: section_testimonials
-    title: Отзывы о курсе
+    title: Testimonials
     section_id: testimonials
-    subtitle: Участники лагеря о занятиях
+    subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
-      - author: Люба Сорокина
-        avatar: /images/1-1316.jpg
-        content: За эти 6 насыщенных дней лагеря благодаря Avi Rynkov я впервые открыла
-          для себя совершенно новый мир – тот, который стоит за кулисами сайтов,
-          тот, из которого соткан интернет. Мы выучили и сделали очень много,
-          это был совершенно новый для меня опыт. Впервые в жизни мне удалось
-          окунуться в волшебство творения сайтов и сделать свой первый небольшой
-          сайт. Самой интересной для меня оказалась тема html и сss, я считаю,
-          что Avi Rynkov дал ученикам хороший старт. Планирую развивать свои
-          знания и навыки в этом направлении. Большое спасибо преподавателю за
-          новые знания, детальные объяснения, терпение и внимательность.
+      - author: Sean Salazar
+        avatar: images/sean_salazar.jpg
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
@@ -108,6 +108,8 @@ sections:
         avatar: images/deegan_wallace.jpg
         content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
+      - author: Tanya M
+        content: soon
   - type: section_posts
     title: Latest from the Blog
     section_id: latest-posts
