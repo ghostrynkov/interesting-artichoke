@@ -63,6 +63,7 @@ sections:
       - title: Visual Studio Code
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
           non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        image: /images/webp.net-resizeimage-2-.jpg
       - title: Stackbit
         image: /images/screen-shot-2020-06-29-at-11.22.44.png
         content: Stackbit - это JAMStack конструктор сайтов. Это конструктор сайтов для
