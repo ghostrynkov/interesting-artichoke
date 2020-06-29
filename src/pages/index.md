@@ -60,6 +60,11 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
         image: /images/github.jpg
+        actions:
+          - type: link
+            new_window: false
+            url: https://github.com/
+            label: На официальный сайт
       - title: Visual Studio Code
         content: Visual Studio Code — это редактор исходного кода как в режиме mark-up,
           так и в режиме mark-down. Он поддерживает подсветку синтаксиса, запуск
@@ -70,6 +75,11 @@ sections:
           строки.  [](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8
           "Интерфейс командной строки")
         image: /images/vis.jpg
+        actions:
+          - type: link
+            new_window: true
+            label: На официальный сайт
+            url: https://code.visualstudio.com/
       - title: Stackbit
         image: /images/screen-shot-2020-06-29-at-11.22.44.png
         content: Stackbit - это JAMStack конструктор сайтов. Это конструктор сайтов для
