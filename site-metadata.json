@@ -8,12 +8,12 @@
     "has_nav": true,
     "nav_links": [
       {
-        "label": "Home",
+        "label": "Главная",
         "url": "/",
         "type": "link"
       },
       {
-        "label": "Темы и Проекты",
+        "label": "Темы и проекты",
         "url": "/portfolio/",
         "type": "link"
       },
@@ -23,7 +23,7 @@
         "type": "link"
       },
       {
-        "label": "О Курсе",
+        "label": "О курсе",
         "url": "/about/",
         "type": "link"
       },
