@@ -1,14 +1,37 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-image: images/about.jpg
+title: О курсе
+subtitle: Чего мы хотели и что получили...
+image: /images/code-html-min.jpg
 template: page
 ---
+Курс создания сайтов предназначен для людей, которые никогда этого не делали и хотели бы научиться. К сожалению, за такой короткий срок невозможно постичь **дзен** веб разработки, но познакомиться и пощупать руками конечно же можно.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Одна из самых главных вещей в моем курсе - это научить участников не бояться нажимать на кнопки, писать код не стесняясь и делиться своими умозаключениями. Ведь именно так входят в профессию, ведь именно так учатся чему-то новому. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+За это короткое время мы посмотрели из чего состоит простой сайт и на практике создали несколько таких. Вначале мы делали все руками, писали html и css, а потом перешли к более готовому конструктору сайтов, где можно в пару кликов создать себе сайт.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+> Могу ли я создать сайт с помощью конструктора?
 
-*Thank You for reading!*
+Конечно! Можно просто наклацать себе сайт на любой платформе и быть счастливым. Но когда вы понимаете, что происходит под капотом, что есть внутри сайта, на что нужно обратить внимание и какие сопутствующие сервисы есть, то ваш сайт сразу станет качественно лучше.
+
+> Но я же могу использовать wordpress или wix, или даже carddio...
+
+Конечно! Если эти платформы решают вашу задачу и ваш сайт получился классный/быстрый/безопасный и вам он очень нравится, то пользуйтесь на здоровье.
+
+Цель этого курса - это показать внутреннюю сторону платформ и сайтов, понять чем они отличаются и сделать выводы какой я хочу сайт. 
+
+Мы познакомились с html и css, мы загружали сайт на хостинг и т.д. Я не могу сказать, что мы выучили весь html :), такого не бывает, тем более за такой короткий промежуток времени. Но когда есть базовое понимание, то мне гораздо проще направить участника на длинный и профессиональный курс по разработке html/css/javascript с помощью которого можно сменить профессию. Можно сказать, что этот курс в Home.Land был затравкой к более длинному и глубокому курсу.
+
+> Могу ли я теперь создавать сайты?
+
+Спросите участников. Кто хотел - тот получил. Причем своими силами. Причем с пониманием как этим сайтом управлять и добавлять в него контент.
+
+Мы на курсе говорили о статический сайтах, личных страничках, блогах, контенте. Мы писали markup и markdown, оптимизировали картинки и в lighthouse проверяли насколько наш сайт крут. Ах да, наш код мы храним в git и хостим его на github.
+
+Попробуйте сами.
+
+Github - для хранения кода
+
+Netlify - для хостинга и CMS
+
+Stackbit - конструктор создания сайтов
