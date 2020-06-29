@@ -95,11 +95,16 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
-      - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+      - author: Люба Сорокина
+        avatar: /images/1-1316.jpg
+        content: За эти 6 насыщенных дней лагеря благодаря Avi Rynkov я впервые открыла
+          для себя совершенно новый мир – тот, который стоит за кулисами сайтов.
+          Мы выучили и сделали очень много. Впервые в жизни мне удалось сделать
+          свой первый небольшой сайт. Самой интересной для меня оказалась тема
+          html и сss, я считаю, что Avi Rynkov дал ученикам хороший старт.
+          Планирую развивать свои знания и навыки в этом направлении. Большое
+          спасибо преподавателю за новые знания, детальные объяснения, терпение
+          и внимательность.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
